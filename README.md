@@ -1,22 +1,23 @@
-# 🌐 udd-api-node
+# udd-api-node
 
-Repositorio orientado al desarrollo de una **API en Node.js**, pensado como base para backend, endpoints y servicios web.
+Repositorio público del perfil **Carl0gonzalez**, documentado para dejar un punto de entrada más claro sobre su propósito y contenido.
 
-![Node.js](https://img.shields.io/badge/Node.js-API-green?logo=node.js)
+---
 
-## Descripción
+## 📌 Objetivo
 
-El proyecto apunta a implementar o practicar una API backend usando JavaScript del lado del servidor, con una estructura enfocada en servicios y exposición de funcionalidades vía HTTP.
+Entregar una descripción breve y útil del repositorio para facilitar su revisión y mantenimiento.
 
-## Objetivo
+## 📁 Revisión recomendada
 
-Disponer de una base clara para construir, probar o estudiar una API con Node.js.
+Clona el repositorio y revisa su estructura interna para identificar el flujo técnico, académico o experimental correspondiente.
 
-## Uso
+```bash
+git clone git@github.com:Carl0gonzalez/udd-api-node.git
+cd udd-api-node
+```
 
-Revisa `package.json`, instala dependencias y ejecuta el flujo definido por el proyecto.
-
-## Autor
+## 👤 Autor
 
 **Carlo González**
 
